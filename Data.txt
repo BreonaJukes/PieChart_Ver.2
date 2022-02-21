@@ -1,0 +1,4 @@
+Sleeping 10
+Reading 5
+Drawing 7
+Exercising 8 
